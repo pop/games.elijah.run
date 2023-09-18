@@ -33,3 +33,7 @@ url = "@/games/index.md"
 [[extra.main_menu]]
 name = "blog"
 url = "@/blog/_index.md"
+
+[[extra.main_menu]]
+name = "github"
+url = "https://github.com/pop/games.elijah.run"
