@@ -37,7 +37,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Build with Zola
-        run: build
+        run: |
+          zola build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
