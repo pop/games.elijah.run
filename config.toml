@@ -27,9 +27,9 @@ highlight_code = true
 # Extra stuff goes here
 
 [[extra.main_menu]]
-name = "Games"
+name = "games"
 url = "@/games/index.md"
 
 [[extra.main_menu]]
-name = "Blog"
+name = "blog"
 url = "@/blog/_index.md"
