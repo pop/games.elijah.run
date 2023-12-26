@@ -4,6 +4,7 @@ with pkgs;
 
 mkShell rec {
   buildInputs = [
-    git-lfs       # Git LFS
+    git-lfs      # Git LFS
+    gnumake
   ];
 }

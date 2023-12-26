@@ -48,17 +48,17 @@ I looked up from my phone back to my bookshelf and then to my Deck.
 Invigorated, I resolved to tackle my backlog; not in the new year but starting this week!
 I wouldn't "check everything off" but I would make an effort to chew on things I wouldn't normally and "check things off" that I had started.
 
-Unlike DTG's video focused on games[^1] this be a "mega backlog" stating with Books, Graphic Novels, and Games[^2].
+Unlike DTG's video focused on games [^1] this be a "mega backlog" stating with Books, Graphic Novels, and Games [^2].
 With a few rules in place:
 
 1. Triage. Don't start something you're not _a little_ excited about.
 2. Give it a real try. Read 50 pages/play 10 hours before giving up on anything.
 3. Minimize "fun in progress". Once you start a thing try to finish it before picking something else up.
 
-So I cracked open Notion and started a database[^3] of every book on my shelves.
-I tried scanning the barcodes, which often contain ISBNs, but had a difficult time finding an API which could report accurate info[^4].
+So I cracked open Notion and started a database [^3] of every book on my shelves.
+I tried scanning the barcodes, which often contain ISBNs, but had a difficult time finding an API which could report accurate info [^4].
 
-I then moved on to games which thanks to [this thread][thread] I used [this site][export] to export my list of games[^5].
+I then moved on to games which thanks to [this thread][thread] I used [this site][export] to export my list of games [^5].
 It turns out I have 500+ games on Steam thanks to over a decade on the platform and a _lot_ of Humble Bundles.
 
 Next I triaged the list sorting out games and books I had no intention of reading/playing.
@@ -70,7 +70,7 @@ I also sorted games/books I had already completed, which was ~10%!
 
 I am very bad at Slay the Spire, but I did play at least 10 hours!
 I would love to keep playing, but the skill ceiling is very high and my time is fleeting.
-It feels like the kind of game you can spend 100+ hours on[^6] and still find depth to explore.
+It feels like the kind of game you can spend 100+ hours on [^6] and still find depth to explore.
 And frankly I do not have that kind of time -- the backlog calls to me!
 
 ## Into the Breach
@@ -105,13 +105,6 @@ I also ready some books this month:
 ... none of which were on the backlog to start with, so the list isn't getting shorter.
 I'm planning to chew through a few books on the shelf next month.
 
-[^1]: It's a gaming channel so it would be weird to include movies, books, etc in his list.
-[^2]: While I have TV and Movies I want to watch I have nowhere near the same guilt about them as I do with books and games.
-[^3]: I like Notion for this because Databases can act as Spreadsheets as well as Kanban boards tracking "todo"/"in-progress"/"done".
-[^4]: Archive.org has a database I had some success with, but it resolved one of my ISBNs as a Caillou kids book, so it could not be trusted for a bulk "process all of these ISBNs into my spreadsheet" task.
-[^5]: My only gripe was that it sorted genres in some sort of CSV bitfield with each genre being a column and an "X" designating if that game had the genre in question, making it tedious to massage into my Notion Database.
-[^6]: I just checked and my best friend, who is really into Slay the Spire, reportedly has 588 hours logged. Wowza.
-
 [dtg]: https://youtu.be/BuszSUI_qBY
 [thread]: https://www.reddit.com/r/Steam/comments/sh40yw/
 [export]: https://www.lorenzostanco.com/lab/steam
@@ -120,3 +113,15 @@ I'm planning to chew through a few books on the shelf next month.
 [stack]: https://sokpop.itch.io/stacklands
 [valheim]: https://www.valheimgame.com/
 [sockpop]: https://sokpop.itch.io/
+
+[^1]: It's a gaming channel so it would be weird to include movies, books, etc in his list.
+
+[^2]: While I have TV and Movies I want to watch I have nowhere near the same guilt about them as I do with books and games.
+
+[^3]: I like Notion for this because Databases can act as Spreadsheets as well as Kanban boards tracking "todo"/"in-progress"/"done".
+
+[^4]: Archive.org has a database I had some success with, but it resolved one of my ISBNs as a Caillou kids book, so it could not be trusted for a bulk "process all of these ISBNs into my spreadsheet" task.
+
+[^5]: My only gripe was that it sorted genres in some sort of CSV bitfield with each genre being a column and an "X" designating if that game had the genre in question, making it tedious to massage into my Notion Database.
+
+[^6]: I just checked and my best friend, who is really into Slay the Spire, reportedly has 588 hours logged. Wowza.
