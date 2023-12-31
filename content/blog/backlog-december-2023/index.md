@@ -94,6 +94,16 @@ After ~5 hours I feel ready to put it away; I haven't beaten the final boss or a
 I used to support the developer of this game, [SockPop][sockpop], on Patreon but cancelled never playing the games they put out every month.
 I was happy to finally give one of their published games the time it deserves.
 
+## What the Golf?
+
+[What the Golf?][golf] is a golf themed whimsical puzzle game where you are presented with levels of "golf" that get increasingly more and more bazaar.
+
+I would consider WtG? a "maximalist" game because it has hundreds of levels covering pretty much everything I can imagine.
+It has homages to Portal, noir spies, Super Meat Boy, World of Goo, SUPERHOT, and probably a hundred other pieces of media I didn't catch.
+Some levels are in first person -- from the perspective of the ball! -- while others are gravity bending or an alien abduction.
+
+This is the most whimsical game I have every played.
+
 ## Books
 
 I also ready some books this month:
@@ -105,14 +115,7 @@ I also ready some books this month:
 ... none of which were on the backlog to start with, so the list isn't getting shorter.
 I'm planning to chew through a few books on the shelf next month.
 
-[dtg]: https://youtu.be/BuszSUI_qBY
-[thread]: https://www.reddit.com/r/Steam/comments/sh40yw/
-[export]: https://www.lorenzostanco.com/lab/steam
-[spire]: https://www.megacrit.com/
-[breach]: https://subsetgames.com/itb.html
-[stack]: https://sokpop.itch.io/stacklands
-[valheim]: https://www.valheimgame.com/
-[sockpop]: https://sokpop.itch.io/
+---
 
 [^1]: It's a gaming channel so it would be weird to include movies, books, etc in his list.
 
@@ -125,3 +128,19 @@ I'm planning to chew through a few books on the shelf next month.
 [^5]: My only gripe was that it sorted genres in some sort of CSV bitfield with each genre being a column and an "X" designating if that game had the genre in question, making it tedious to massage into my Notion Database.
 
 [^6]: I just checked and my best friend, who is really into Slay the Spire, reportedly has 588 hours logged. Wowza.
+
+---
+
+## CHANGELOG
+
+* December 31, 2023: Added "What the Golf!" to completed games.
+
+[dtg]: https://youtu.be/BuszSUI_qBY
+[thread]: https://www.reddit.com/r/Steam/comments/sh40yw/
+[export]: https://www.lorenzostanco.com/lab/steam
+[spire]: https://www.megacrit.com/
+[breach]: https://subsetgames.com/itb.html
+[stack]: https://sokpop.itch.io/stacklands
+[valheim]: https://www.valheimgame.com/
+[sockpop]: https://sokpop.itch.io/
+[golf]: https://whatthegames.com/golf
