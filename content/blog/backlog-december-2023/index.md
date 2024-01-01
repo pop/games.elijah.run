@@ -1,5 +1,5 @@
 +++
-title = "The Backlog: December 2023"
+title = "the backlog: december 2023"
 
 description = "A strategic start to a long journey"
 
@@ -23,7 +23,7 @@ authors = [
 ]
 +++
 
-# Backlog: Origins
+> _Backlog: Origins_
 
 As usually happens when I have time off, I was staring at my bookshelves and lamenting the sheer volume of books I own but have not read.
 Looking at volume after volume of graphic novel, sci-fi adventure, and technical tome I could feel anxiety as I was worried I may _never_ read these books and I should just give up now.

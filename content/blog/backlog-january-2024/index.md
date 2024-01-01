@@ -1,5 +1,5 @@
 +++
-title = "The Backlog: January 2024"
+title = "the backlog: january 2024"
 
 description = "Starting the new year with..."
 
@@ -11,18 +11,16 @@ taxonomies.categories = [
 
 taxonomies.tags = [
     "games",
-    "genre:turn-based-strategy",
-    "genre:card",
+    "vr",
+    "genre:point-and-click",
 ]
 
-date = "2023-01-01"
+date = "2024-01-01"
 
 authors = [
   "Elijah Voigt",
 ]
 +++
-
-# Backlog WITTY TITLE TBD
 
 This month I finished a few games on my backlog and read some books.
 
