@@ -25,7 +25,7 @@ authors = [
 Toward the end of development on [Martian Chess](http://localhost:8080/games#martian-chess) I got a message from my collaborator that made me sweat:
 
 > [11:07 PM] **Also, I crashed again!**
-> ![I crashed again](crashed-again.png)
+> [![I crashed again](crashed-again.png)](crashed-again.png)
 
 Sam was playing a daily build and after ~5-10 minutes the game crashed with the above terminal output.
 This had been happening for the last few days and was concerning because -- believe it or not, the game was not _supposed_ to crash!
