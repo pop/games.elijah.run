@@ -1,12 +1,12 @@
 +++
-title = "tweaks-files"
+title = "tweaks files"
 
 description = "Proof of concept for runtime configuration for games"
 
 draft = false
 
 taxonomies.categories = [
-    "backlog",
+    "tech",
 ]
 
 taxonomies.tags = [

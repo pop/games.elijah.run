@@ -1,5 +1,5 @@
 +++
-title = "the backlog: december 2023"
+title = "backlog: december 2023"
 
 description = "A strategic start to a long journey"
 
